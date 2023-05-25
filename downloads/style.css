@@ -1,0 +1,26 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: Arial
+}
+
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+p {
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 3px;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+body {background-color: #1A1110;}
